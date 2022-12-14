@@ -1,8 +1,8 @@
 ### Hi, I'm Pragnesh :wave:
-### I am Web Developer / Software Developer
+### I am Software Developer
 
 - :construction: I'm currently working on my personal portfolio website.
-- 👀 I’m interested in learning new web technologies.
+- 👀 I’m interested in learning new web application technologies.
 - 🌱 I’m currently learning ReactJS. 
 - 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/pragnesh-suthar-pdf2310/  
 - :smile: Pronous: he/him 
